@@ -1,0 +1,100 @@
+(1) Godfather, The
+(2) Star Wars Episode V: The Empire Strikes Back
+(3) Dark Knight, The
+(4) Shawshank Redemption, The
+(5) Pulp Fiction
+(6) Goodfellas
+(7) Raiders Of The Lost Ark
+(8) Jaws
+(9) Star Wars Episode IV: A New Hope
+(10) Lord Of The Rings: The Fellowship Of The Ring
+(11) Back To The Future
+(12) Godfather Part II, The
+(13) Blade Runner
+(14) Alien
+(15) Aliens
+(16) Lord Of The Rings: The Return Of The King
+(17) Fight Club
+(18) Inception
+(19) Jurassic Park
+(20) Die Hard
+(21) 2001: A Space Odyssey
+(22) Apocalypse Now
+(23) Lord Of The Rings: The Two Towers
+(24) Matrix, The
+(25) Terminator 2: Judgment Day
+(26) Heat
+(27) Good, The Bad & The Ugly, The
+(28) Casablanca
+(29) Big Lebowski, The
+(30) Seven
+(31) Taxi Driver
+(32) Usual Suspects, The
+(33) Schindler's List
+(34) Guardians Of The Galaxy
+(35) Shining, The
+(36) Departed, The
+(37) Thing, The
+(38) Mad Max: Fury Road
+(39) Saving Private Ryan
+(40) 12 Angry Men 
+(41) Eternal Sunshine Of The Spotless Mind
+(42) There Will Be Blood
+(43) One Flew Over The Cuckoo's Nest 
+(44) Gladiator
+(45) Drive
+(46) Citizen Kane
+(47) Interstellar
+(48) Silence Of The Lambs, The
+(49) Trainspotting
+(50) Lawrence Of Arabia
+(51) It's A Wonderful Life
+(52) Once Upon A Time in the West
+(53) Psycho 
+(54) Vertigo
+(55) Pan's Labyrinth
+(56) Reservoir Dogs
+(57) Whiplash
+(58) Inglourious Basterds
+(59) E.T. The Extra Terrestrial
+(60) American Beauty
+(61) Forrest Gump
+(62) La La Land
+(63) Donnie Darko
+(64) L.A. Confidential
+(65) Avengers, The
+(66) Star Wars Episode VI: Return Of The Jedi
+(67) Memento
+(68) Ghostbusters
+(69) Singin' In The Rain
+(70) The Lion King 
+(71) Hot Fuzz
+(72) Rear Window
+(73) Seven Samurai
+(74) Mulholland Drive
+(75) Fargo
+(76) A Clockwork Orange
+(77) Toy Story
+(78) Oldboy
+(79) Captain America: Civil War
+(80) Spirited Away
+(81) Social Network, The
+(82) Some Like It Hot
+(83) True Romance
+(84) Rocky
+(85) Leon
+(86) Indiana Jones and the Last Crusade
+(87) Predator
+(88) EMPIRE ESSAY: Exorcist, The
+(89) Shaun of the Dead
+(90) No Country For Old Men
+(91) Prestige, The
+(92) EMPIRE ESSAY: The Terminator
+(93) Princess Bride, The
+(94) Lost in Translation
+(95) Arrival
+(96) Good Will Hunting
+(97) Titanic
+(98) Amelie
+(99) Raging Bull
+(100) Stand By Me
