@@ -6,7 +6,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from dotenv import load_dotenv
 import os
-
+# Using the dotenv module to keep my CLIENT_ID and SECRET
 load_dotenv()
 
 # Spotify client ID and secret.
@@ -27,15 +27,16 @@ response = requests.get(TRAVEL_POINT).text
 content = BeautifulSoup(response, "html.parser")
 # scrapping the html to get the artists names and the name of the songs.
 the_names = content.find_all(name="span", class_="c-label")
-for name in the_names:
-    the_artist = name.getText()
-    musician = the_artist.strip()
-    if musician == "NEW" or musician == "-":
-        pass
-    elif len(musician) == 1 or len(musician) == 2 or len(musician) == 3:
-        pass
-    else:
-        artists.append(musician)
+# for name in the_names:
+#     the_artist = name.getText()
+#     musician = the_artist.strip()
+#     if musician == "NEW" or musician == "-":
+#         pass
+#     elif len(musician) == 1 or len(musician) == 2 or len(musician) == 3:
+#         pass
+#     else:
+#         artists.append(musician)
+# The above code commented out is for collecting the names of the artists.
 
 the_songs = content.find_all(name="h3", id="title-of-a-story")
 for song in the_songs:
